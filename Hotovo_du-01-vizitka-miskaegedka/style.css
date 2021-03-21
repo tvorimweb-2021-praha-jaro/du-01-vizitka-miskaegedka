@@ -1,0 +1,27 @@
+
+
+  body{
+    font-family:serif;
+    font-size: 15px;
+    float:left;
+    
+background-color: plum;}
+    h2,H3{
+        color:purple;
+        font-size: 20;
+    }
+  p{color:purple}
+    
+  .rsz_rsz_1fotome {
+        float: right;
+        border: 3px;
+            border-radius: 50%;
+             border-color: black;
+                     height: 20px;
+                    Width: 20px;
+                    Margin: 20 px;
+                    margin-right: 20 px;
+}
+
+
+  
